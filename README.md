@@ -1,0 +1,1 @@
+This is sketch pad that I have created as assignment for The Odin Project.
