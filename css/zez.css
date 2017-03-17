@@ -1,0 +1,42 @@
+body, html {
+    background-image: url("img/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container {
+    margin: auto;
+}
+
+button {
+
+    background-color: #82BF56;
+    border-bottom: 5px solid #669644;
+    text-shadow: 0px -2px #669644;
+    position: relative;
+    padding: 10px 40px;
+    margin: 0px 10px 10px 0px;
+    float: left;
+    border-radius: 10px;
+    font-size: 25px;
+    color: #FFF;
+    text-decoration: none;
+}
+
+#grid_container {
+    overflow: auto;
+    width: 960px;
+}
+
+.grid_square {
+    background-color: white;
+    float: left;
+}
+
+.grid_color {
+    background-color: black;
+}
+
+.new_row {
+    clear: both;
+}
